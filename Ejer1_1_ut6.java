@@ -25,8 +25,8 @@ public class Ejer1_1_ut6 {
                 sumaImpar+=vector[i];
                 impares++;
            }
-       System.out.printf("Media Pares: %.2f",sumaPar/pares);
+       System.out.printf("Media de los números Pares: %.2f",sumaPar/pares);
        System.out.println();
-       System.out.printf("Media Impares: %.2f",sumaImpar/impares);
+       System.out.printf("Media de los números Impares: %.2f",sumaImpar/impares);
     }
 }
